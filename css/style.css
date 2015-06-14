@@ -16,12 +16,17 @@
 		width: 100%;
 	}
 
+	img#smallLogo, h1 {
+
+	  width: 25%;
+	  max-width: 200px;
+	  padding: 0px 37%;
+	}
 
 	img#smallLogo {
-	  width: 120px;
 	  position: relative;
 	  top: 50px;
-	  left: 40%;
+	  
 	}
 	
 	body a {
@@ -39,9 +44,8 @@
 	h1 {
 		font-family: 'Lobster', serif;
 	  font-size: 20px;
-	    position: relative;
-	  left: 40%;
-	     padding: 0px 20px;
+	    text-align: center;
+	   /*  padding: 0px 20px;*/
 	}
 
 	h2 {
@@ -170,13 +174,13 @@
 	}
 
 	img#smallLogo {
-		width: 348px;
+		/*width: 348px;*/
   		top: 260px;
 
 	}
-	img#smallLogo, h1 {
+	/*img#smallLogo, h1 {
 		left: 30%;
-	}
+	}*/
 
 	#work {
 		margin-top: 200px;
@@ -185,7 +189,7 @@
 	h1 {
 		font-size: 50px;
 		font-family: 'Raleway', sans-serif;
-		padding: 0px 40px;
+		/*padding: 0px 40px;*/
 	}
 
 	#portfolioArticles {
@@ -217,24 +221,29 @@
 
 @media (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
 	img#smallLogo {
-	  width: 240px;
+	 /* width: 240px;*/
 	  top: 115px;
 	}
 
-	img#smallLogo, h1 {
+	/*img#smallLogo, h1 {
 		left: 42%;
 	}
 
 	h1 {
 	  padding: 0px 35px;
-	}
+	}*/
 }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) and (orientation: portrait) {
 
-	img#smallLogo, h1 {
+	/*img#smallLogo, h1 {
 		left: 33%;
+	}*/
+
+	img#smallLogo, h1 {
+	  
+	  padding: 0px 42%;
 	}
 
 	#work {
@@ -277,17 +286,22 @@
 }
 
 @media (min-width: 768px) and (orientation: landscape) {
-	img#smallLogo, h1 {
+	/*img#smallLogo, h1 {
 		left: 39%;
+	}*/
+
+	img#smallLogo, h1 {
+	  
+	  padding: 0px 42%;
 	}
 
 	#work {
 	  margin-top: 120px;
 	}
 
-	h1 {
+	/*h1 {
 	  padding: 0px 25px;
-	}
+	}*/
 
 	div#footer a {
 		padding: 35px;
@@ -297,9 +311,9 @@
 /*Medium devices (desktops, 992px and up)*/ 
 @media (min-width: 992px) {
 
-	img#smallLogo, h1 {
+	/*img#smallLogo, h1 {
 		left: 45%;
-	}
+	}*/
 
 
 	
@@ -308,9 +322,9 @@
 /*Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 
-	img#smallLogo, h1 {
+	/*img#smallLogo, h1 {
 		left: 46%;
-	}
+	}*/
 
 	
 
