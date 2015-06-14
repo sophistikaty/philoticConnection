@@ -1,7 +1,8 @@
 /* Mobile first - default styles */
 	body, html {
-	    width:100%;
+	    width: 100%;
 	    min-height: 100%;
+	      overflow-x: hidden;
 	}
 
 	body {
@@ -11,10 +12,14 @@
 		margin: 0px;
 	}
 
+	div {
+		width: 100%;
+	}
+
 
 	img#smallLogo {
-	  width: 100px;
-	  position: absolute;
+	  width: 120px;
+	  position: relative;
 	  top: 50px;
 	  left: 40%;
 	}
@@ -36,7 +41,7 @@
 	  font-size: 20px;
 	    position: relative;
 	  left: 40%;
-	  padding: 0px 20px;
+	     padding: 0px 20px;
 	}
 
 	h2 {
@@ -84,7 +89,7 @@
 	}
 
 	#work {
-		margin-top: 170px;
+		margin-top: 120px;
 	  
 	}
 
@@ -133,6 +138,7 @@
 		padding: 50px 0px;
 		  width: 100%;
 		  text-align: center;
+	  p
 		
 	}
 
@@ -158,29 +164,44 @@
 /* Small Mobile devices - iphone, etc. */
 @media (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) { 
 
+	body, html {
+	    width: 114%;
+	    min-height: 153%;
+	}
+
 	img#smallLogo {
-		max-width: 200px;
-		top: 100px;
+		width: 348px;
+  		top: 260px;
+
 	}
 
 	#work {
-		margin-top: 35%;
+		margin-top: 200px;
 	}
 
 	h1 {
 		font-size: 50px;
 	}
 
+	#portfolioArticles {
+		margin: 135px 0px;
+	}
+
 	#portfolioArticles article a {
-		font-size: 40px;
+		font-size: 50px;
 	}
 
 	#portfolioArticles article p {
-		font-size: 25px;
+		font-size: 40px;
 	}
 
 	article {
-		  padding: 100px 45px 45px;
+		  padding: 120px 45px 45px;
+		  margin: 80px;
+	}
+
+	div#footer {
+		padding: 90px 0px;
 	}
 
 	#footer a {
@@ -189,15 +210,30 @@
 
 }
 
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) and (orientation: portrait) {
+@media (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+	img#smallLogo {
+	  width: 240px;
+	  top: 115px;
+	}
 
 	img#smallLogo, h1 {
 		left: 42%;
 	}
 
+	h1 {
+	  padding: 0px 35px;
+	}
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (orientation: portrait) {
+
+	img#smallLogo, h1 {
+		left: 39%;
+	}
+
 	#work {
-	  margin-top: 200px;
+	  margin-top: 400px;
 	}
 
 	/*h1 {
@@ -237,7 +273,15 @@
 
 @media (min-width: 768px) and (orientation: landscape) {
 	img#smallLogo, h1 {
-		left: 45%;
+		left: 44%;
+	}
+
+	#work {
+	  margin-top: 120px;
+	}
+
+	h1 {
+	  padding: 0px 25px;
 	}
 
 	div#footer a {
@@ -260,7 +304,7 @@
 @media (min-width: 1200px) {
 
 	img#smallLogo, h1 {
-		left: 47%;
+		left: 46%;
 	}
 
 	
