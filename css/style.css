@@ -234,12 +234,12 @@
 @media (min-width: 768px) and (orientation: portrait) {
 
 	img#smallLogo, h1 {
-		left: 35%;
+		left: 33%;
 	}
 
-	/*#work {
-	  margin-top: 400px;
-	}*/
+	#work {
+	  margin-top: 300px;
+	}
 
 	/*h1 {
 	  font-size: 30px;
@@ -278,7 +278,7 @@
 
 @media (min-width: 768px) and (orientation: landscape) {
 	img#smallLogo, h1 {
-		left: 40%;
+		left: 39%;
 	}
 
 	#work {
