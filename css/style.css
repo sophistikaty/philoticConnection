@@ -97,6 +97,21 @@
 	  
 	}
 
+	
+	article#photography {
+		padding: 0px;
+		background: inherit;
+	}
+
+	h2.photostack-title, #photography figcaption p {
+		font-family: 'raleway';
+	}
+
+	article#photography img {
+	  height: auto;
+  		width: 100%;
+	}
+
 
 /*
 
@@ -156,7 +171,7 @@
 		padding: 45px;
 		  margin: 45px;
 		  background-color: #010101;
-		  transition: background-color 1.5s ease;
+		  transition: all 1.5s ease;
 	  text-align: center;
 
 	}
