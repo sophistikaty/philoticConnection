@@ -28,6 +28,17 @@
 	  top: 50px;
 	  
 	}
+
+	img.hero {
+		width: 80%;
+	  max-width: 1000px;
+	  padding: 0px 10%;
+	}
+
+	img.threes {
+	    padding: 0px 2% 2% 2%;
+	  width: 25%;
+	}
 	
 	body a {
 		color: #8D8D8D;
@@ -39,6 +50,14 @@
 		color: #FF0057;
 		text-decoration: none;
 		font-weight: 600;
+	}
+
+	#work p a.feature {
+		margin: 25px;
+*/	}
+
+	div#threes {
+		  padding: 0px 4%;
 	}
 
 	h1 {
