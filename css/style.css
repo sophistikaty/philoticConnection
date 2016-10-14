@@ -198,19 +198,20 @@
 
 	article.web, article.dj {
 		padding: 10px;
-    	margin: 10px;
-		background-color: #E1E1E1;
+    	margin: 50px 10px 10px;
+		/*background-color: #E1E1E1;*/
 	  	text-align: center;
 	  	max-height: 50%;
-    	overflow: hidden;
+    	overflow: hidden;    
+    	border-radius: 10px;
 
 		transition: all 1.5s ease;
 
 	}
 
 	article.web:hover, article.dj:hover {
-		padding: 12px;
-    	margin: 12px;
+		padding: 10.5px;
+    	margin: 50px 10.5px 10.5px;
 		background-color: #4C4B4B;
 		z-index: 10;
 	}
@@ -238,7 +239,9 @@
 
 	img.web {
 
-		opacity: .4;
+		opacity: .4;   
+    	border-radius: 10px;
+    	max-height: 50%;
 
 		transition: all 1.5s ease;
 	}
@@ -250,6 +253,15 @@
 
 	img.web.eleven {
 		margin: 4%;
+	}
+
+	div#footer{
+
+		padding: 30px;
+	}
+
+	div.white{
+		color: #ffffff;
 	}
 
 	
