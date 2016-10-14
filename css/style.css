@@ -1,5 +1,5 @@
 /* Mobile first - default styles */
-	body, html {
+/*	body, html {
 	    width: 100%;
 	    min-height: 100%;
 	      overflow-x: hidden;
@@ -14,16 +14,23 @@
 
 	div {
 		width: 100%;
+	}*/
+
+	div#mainlogo {
+
+		padding: 5% 0px;
 	}
 
-	img#smallLogo, h1 {
+	.three.center {
 
-	  width: 25%;
-	  max-width: 200px;
-	  padding: 0px 37%;
+	  margin: 0px 38%;
 	}
 
-	img#smallLogo {
+	.six.center {
+		margin: 0px 30%;
+	}
+
+/*	img#smallLogo {
 	  position: relative;
 	  top: 50px;
 	  
@@ -39,24 +46,27 @@
 	    padding: 0px 2% 2% 2%;
 	  width: 25%;
 	}
-	
+	*/
 	body a {
-		color: #8D8D8D;
+		color: #4CAF50;
 		text-decoration: none;
 		font-weight: 600;
+
+		transition: all 1s ease;
 	}
 
 	body a:hover {
-		color: #FF0057;
+
+		color: #4CAF50;
 		text-decoration: none;
 		font-weight: 600;
 	}
-
+/*
 	#work p a.feature {
 		margin: 25px;
-*/	}
+	}*/
 
-	div#threes {
+/*	div#threes {
 		  padding: 0px 4%;
 	}
 
@@ -65,7 +75,7 @@
 	  font-size: 20px;
 	    text-align: center;
 	   /*  padding: 0px 20px;*/
-	}
+/*	}
 
 	h2 {
 		font-family: 'Lobster', serif;
@@ -170,7 +180,7 @@
 
 
 */
-	div#footer {
+/*	div#footer {
 		background: #010101;
 		color: #ffffff;
 		padding: 50px 0px;
@@ -184,39 +194,96 @@
 		padding: 15px;
 	}
 
+	*/
+
+	article.web, article.dj {
+		padding: 10px;
+    	margin: 50px 10px 10px;
+		/*background-color: #E1E1E1;*/
+	  	text-align: center;
+	  	max-height: 50%;
+    	overflow: hidden;    
+    	border-radius: 10px;
+
+		transition: all 1.5s ease;
+
+	}
+
+	article.web:hover, article.dj:hover {
+		padding: 10.5px;
+    	margin: 50px 10.5px 10.5px;
+		background-color: #4C4B4B;
+		z-index: 10;
+	}
+
+	article h6 {
+		text-transform: uppercase;
+		font-weight: bolder;
+		margin: 0px;
+	}
+
+	article p {
+		color: #4C4B4B;
+		text-transform: lowercase;
+		font-weight: lighter;
+		margin: 0px;
+
+		transition: all 1.5s ease;
+	}
+
+	article:hover p {
+
+		color: #EFE4DD;
+		
+	}
+
+	img.web {
+
+		opacity: .4;   
+    	border-radius: 10px;
+    	max-height: 50%;
+
+		transition: all 1.5s ease;
+	}
+
+	article:hover img.web {
+
+		opacity: 1;
+	}
+
+	img.web.eleven {
+		margin: 4%;
+	}
+
+	div#footer{
+
+		padding: 30px;
+	}
+
+	div.white{
+		color: #ffffff;
+	}
+
 	
-
-	article {
-		padding: 45px;
-		  margin: 45px;
-		  background-color: #010101;
-		  transition: all 1.5s ease;
-	  text-align: center;
-
-	}
-
-	article:hover {
-		background-color: #eeeeee;
-	}
 
 /* Small Mobile devices - iphone, etc. */
 @media (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) { 
 
-	body, html {
+	/*body, html {
 	    width: 114%;
 	    min-height: 153%;
-	}
+	}*/
 
 	img#smallLogo {
-		/*width: 348px;*/
-  		top: 260px;
+
+		margin: 0px 38%;
 
 	}
 	/*img#smallLogo, h1 {
 		left: 30%;
 	}*/
 
-	#work {
+/*	#work {
 		margin-top: 200px;
 	}
 
@@ -224,7 +291,7 @@
 		font-size: 50px;
 		font-family: 'Raleway', sans-serif;
 		/*padding: 0px 40px;*/
-	}
+/*	}
 
 	#portfolioArticles {
 		margin: 135px 0px;
@@ -250,13 +317,14 @@
 	#footer a {
 	  font-size: 40px;
 	}
-
+*/
 }
 
 @media (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+	
 	img#smallLogo {
-	 /* width: 240px;*/
-	  top: 115px;
+
+	 	margin: 0px 38%;
 	}
 
 	/*img#smallLogo, h1 {
@@ -271,11 +339,12 @@
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) and (orientation: portrait) {
 
-	/*img#smallLogo, h1 {
-		left: 33%;
-	}*/
-
 	img#smallLogo, h1 {
+
+		margin: 0px 38%;
+	}
+
+/*	img#smallLogo, h1 {
 	  
 	  padding: 0px 42%;
 	}
@@ -320,11 +389,13 @@
 }
 
 @media (min-width: 768px) and (orientation: landscape) {
-	/*img#smallLogo, h1 {
-		left: 39%;
-	}*/
 
 	img#smallLogo, h1 {
+
+		margin: 0px 38%;
+	}
+
+/*	img#smallLogo, h1 {
 	  
 	  padding: 0px 42%;
 	}
@@ -337,30 +408,27 @@
 	  padding: 0px 25px;
 	}*/
 
-	div#footer a {
+/*	div#footer a {
 		padding: 35px;
-	}
+	}*/
 }
 
 /*Medium devices (desktops, 992px and up)*/ 
 @media (min-width: 992px) {
 
-	/*img#smallLogo, h1 {
-		left: 45%;
-	}*/
+	img#smallLogo, h1 {
 
-
+		margin: 0px 38%;
+	}
 	
 }
 
 /*Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 
-	/*img#smallLogo, h1 {
+	img#smallLogo, h1 {
 		left: 46%;
-	}*/
-
-	
+	}
 
 }
 
