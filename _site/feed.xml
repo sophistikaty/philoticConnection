@@ -3,11 +3,11 @@
   <channel>
     <title>oh, there you are</title>
     <description>oh, there you are - a live culture travel production by the philotic connection.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Feb 2017 11:52:29 -0500</pubDate>
-    <lastBuildDate>Sat, 25 Feb 2017 11:52:29 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Feb 2017 12:00:10 -0500</pubDate>
+    <lastBuildDate>Sat, 25 Feb 2017 12:00:10 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>New Orleans Top 5</title>
@@ -39,7 +39,7 @@
 &lt;p&gt;Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90&#39;s.
+  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
   &lt;cite&gt;Man braid&lt;/cite&gt;
 &lt;/blockquote&gt;
 
@@ -56,8 +56,8 @@
 &lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Feb 2016 00:00:00 -0500</pubDate>
-        <link>/2016/02/25/nola-top-5/</link>
-        <guid isPermaLink="true">/2016/02/25/nola-top-5/</guid>
+        <link>http://localhost:4000/2016/02/25/nola-top-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/25/nola-top-5/</guid>
         
         
         <category>Destination</category>
