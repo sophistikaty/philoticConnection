@@ -9,7 +9,6 @@ google_analytics:
 title: oh, there you are
 description: 
 url: ""
-twitter_username: thephilotic
 default_img: 
 
 # Profile settings
@@ -17,7 +16,10 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
+  instagram: https://www.instagram.com/philoticconnection/
+  twitter: https://twitter.com/thephilotic
+  facebook: https://www.facebook.com/thephilotic/
+  github: https://github.com/Philotic-Connection
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]

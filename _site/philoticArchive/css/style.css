@@ -52,6 +52,8 @@
 		text-decoration: none;
 		font-weight: 600;
 
+		-webkit-transition: all 1s ease;
+
 		transition: all 1s ease;
 	}
 
@@ -205,6 +207,8 @@
     	overflow: hidden;    
     	border-radius: 10px;
 
+		-webkit-transition: all 1.5s ease;
+
 		transition: all 1.5s ease;
 
 	}
@@ -228,6 +232,8 @@
 		font-weight: lighter;
 		margin: 0px;
 
+		-webkit-transition: all 1.5s ease;
+
 		transition: all 1.5s ease;
 	}
 
@@ -242,6 +248,8 @@
 		opacity: .4;   
     	border-radius: 10px;
     	max-height: 50%;
+
+		-webkit-transition: all 1.5s ease;
 
 		transition: all 1.5s ease;
 	}
