@@ -35,7 +35,8 @@ layout: default
         <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
       </div>
       <div class="profile__container">
-        <p>{{ site.profile }}</p>
+       <h4>{{ site.title }}</h4>
+        <p>{{ site.tagline }}</p>
         {% if site.email or site.social %}
           <ul class="profile__social">
             {% if site.email %}
