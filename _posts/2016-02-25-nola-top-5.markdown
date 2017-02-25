@@ -11,14 +11,7 @@ image-sm: /assets/images/shaya.drinks.jpg
 <h3>Top 5 Restaurants in New Orleans</h3>
 <h5>our take on the best of #nolaeats after a first whirlwind trip.</h5>
 <br>
-<p>It's painful to try to put them in any kind of order. It's tough to get a bad meal in the big easy, but for us, these rose to the top of the foodie chain.</p>
-<ul>
-  <li>Peche</li>
-  <li>Cane and Table</li>
-  <li>Atchafalaya</li>
-  <li>Shaya</li>
-  <li>Bacchanal</li>
-</ul>
+<p>It's painful to try to put them in any kind of order. It's tough to get a bad meal in the big easy, but for us, Peche, Cane and Table, Atchafalaya, Shaya, and Bacchanal rose to the top of the foodie chain. Here's the run-down:</p>
 
 <h3>Peche</h3>
 Peche Seafood Grill is a Spanish, Gulf Coast, South American inspired seafood restaurant at the edge of the CBD (Central Business District). The food was amazing and the staff was great. We had reservations for a Monday night dinner at 7pm and it was packed so we recommend making reservations ahead of time. When you get there make sure to start off with a drink and their Seafood Salad which is kind of their take on ceviche. Don't leave without trying the Roasted Carrots, Fried Bread, Spicy Ground Shrimp and Noodles, and Crawfish Capellini.
