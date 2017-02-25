@@ -1,0 +1,35 @@
+# Site settings
+email: philoticconnection@gmail.com
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+
+# SEO settings
+title: oh, there you are
+tagline: a philotic connection live culture production
+description: oh, there you are - a live culture travel production by the philotic connection.
+url: "philoticconnection.com"
+default_img: 
+
+# Profile settings
+name: The Philotic Connection
+profile: a philotic connection production.
+profile_img: https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e15/11283261_530265327112629_1124558959_n.jpg
+social:
+  instagram: https://www.instagram.com/philoticconnection/
+  twitter: https://twitter.com/thephilotic
+  facebook: https://www.facebook.com/thephilotic/
+  github: https://github.com/Philotic-Connection
+
+# Build settings
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
