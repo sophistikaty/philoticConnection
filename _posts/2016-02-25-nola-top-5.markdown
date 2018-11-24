@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "New Orleans Top 5"
+title: "New Orleans Top 5 Restaurants"
 date: 2016-02-25
 categories: 
   - destination nola
 description: our take on the top 5 restaurants in New Orleans after a first whirlwind trip.
-image: /assets/images/shaya.drinks.jpg
-image-sm: /assets/images/shaya.drinks.jpg
+image: /assets/images/avocadoToast.shaya.jpg
+image-sm: /assets/images/avocadoToast.shaya.jpg
 ---
-<h3>Top 5 Restaurants in New Orleans</h3>
-<h5>our take on the best of #nolaeats after a first whirlwind trip.</h5>
+<h3>our take on the best of #nolaeats after a first whirlwind trip.</h3>
 <br>
 <p>It's painful to try to put them in any kind of order. It's tough to get a bad meal in the big easy, but for us, Peche, Cane and Table, Atchafalaya, Shaya, and Bacchanal rose to the top of the foodie chain. Here's the run-down:</p>
 
@@ -21,12 +20,6 @@ image-sm: /assets/images/shaya.drinks.jpg
   <figcaption>It says something when the food is so good you forget to take any pictures at all. The fried bread was simply wonderful. Photo courtesy of @pechenola</figcaption>
 </figure>
 
-<!-- <figure>
-  <video width="100%" controls autoplay muted loop>
-    <source src="/assets/images/mardigras.octopus.mp4" type="video/mp4">
-  </video>
-</figure>
- -->
 <h3>Cane and Table</h3>
 Arguably tied with first place in our hearts, but <a href="http://caneandtablenola.com/">Cane and Table</a> really is a hidden gem in New Orleans. I hope it stays that way because the service, food, and drinks were on a whole other level - even compared to other cities we've visited. Cane and Table would be the best place to go to in any city, New Orleans is lucky to have it. We were walking through the french quarter on our way to Cafe Du Monde on the first morning, stumbled across this place and drank our way through their entire brunch cocktail menu instead #priorities ($35 all you can drink with an entree special! AMAZING!!!).
 
