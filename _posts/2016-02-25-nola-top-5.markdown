@@ -2,8 +2,8 @@
 layout: post
 title: "New Orleans Top 5 Restaurants"
 date: 2016-02-25
-categories: 
-  - destination nola
+categories: [destination, nola]
+
 description: our take on the top 5 restaurants in New Orleans after a first whirlwind trip.
 image: /assets/images/avocadoToast.shaya.jpg
 image-sm: /assets/images/avocadoToast.shaya.jpg
