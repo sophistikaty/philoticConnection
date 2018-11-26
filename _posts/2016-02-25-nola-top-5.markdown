@@ -13,7 +13,7 @@ image-sm: /assets/images/avocadoToast.shaya.jpg
 <p>It's painful to try to put them in any kind of order. It's tough to get a bad meal in the big easy, but for us, Peche, Cane and Table, Atchafalaya, Shaya, and Bacchanal rose to the top of the foodie chain. Here's the run-down:</p>
 
 <h3>Peche</h3>
-<a href="http://www.pecherestaurant.com/">Peche Seafood Grill</a> is a Spanish, Gulf Coast, South American inspired seafood restaurant at the edge of the CBD (Central Business District). The food was amazing and the staff was great. We had reservations for a Monday night dinner at 7pm and it was packed so we recommend making reservations ahead of time. When you get there make sure to start off with a drink and their Seafood Salad which is kind of their take on ceviche. Don't leave without trying the Roasted Carrots, Fried Bread, Spicy Ground Shrimp and Noodles, and Crawfish Capellini.
+<a href="http://www.pecherestaurant.com/" target="_blank">Peche Seafood Grill</a> is a Spanish, Gulf Coast, South American inspired seafood restaurant at the edge of the CBD (Central Business District). The food was amazing and the staff was great. We had reservations for a Monday night dinner at 7pm and it was packed so we recommend making reservations ahead of time. When you get there make sure to start off with a drink and their Seafood Salad which is kind of their take on ceviche. Don't leave without trying the Roasted Carrots, Fried Bread, Spicy Ground Shrimp and Noodles, and Crawfish Capellini.
 
 <figure>
   <img src="/assets/images/peche.friedBread.jpg" alt="{{post.categories}}"/>
@@ -21,7 +21,7 @@ image-sm: /assets/images/avocadoToast.shaya.jpg
 </figure>
 
 <h3>Cane and Table</h3>
-Arguably tied with first place in our hearts, but <a href="http://caneandtablenola.com/">Cane and Table</a> really is a hidden gem in New Orleans. I hope it stays that way because the service, food, and drinks were on a whole other level - even compared to other cities we've visited. Cane and Table would be the best place to go to in any city, New Orleans is lucky to have it. We were walking through the french quarter on our way to Cafe Du Monde on the first morning, stumbled across this place and drank our way through their entire brunch cocktail menu instead #priorities ($35 all you can drink with an entree special! AMAZING!!!).
+Arguably tied with first place in our hearts, but <a href="http://caneandtablenola.com/" target="_blank">Cane and Table</a> really is a hidden gem in New Orleans. I hope it stays that way because the service, food, and drinks were on a whole other level - even compared to other cities we've visited. Cane and Table would be the best place to go to in any city, New Orleans is lucky to have it. We were walking through the french quarter on our way to Cafe Du Monde on the first morning, stumbled across this place and drank our way through their entire brunch cocktail menu instead #priorities ($35 all you can drink with an entree special! AMAZING!!!).
 
 <figure>
   <img src="/assets/images/caneandtable.cocktails.jpg" alt="{{post.categories}}"/>
@@ -34,7 +34,7 @@ Arguably tied with first place in our hearts, but <a href="http://caneandtableno
 </blockquote>
 
 <h3>Atchafalaya</h3>
-<a href="http://www.atchafalayarestaurant.com/">Atchafalaya</a> is nestled in right at the border of the Garden District and Uptown - sitting on a beautiful wide avenue. They had a build your own Bloody Mary bar, alligator sausage (a bit tangy, but yeah, tastes a bit like a mix of chicken and fish), the best Pimms Cup we found on had the whole trip, and the best Chicken and Biscuits we've tried anywhere! Go and tell me I'm wrong.
+<a href="http://www.atchafalayarestaurant.com/" target="_blank">Atchafalaya</a> is nestled in right at the border of the Garden District and Uptown - sitting on a beautiful wide avenue. They had a build your own Bloody Mary bar, alligator sausage (a bit tangy, but yeah, tastes a bit like a mix of chicken and fish), the best Pimms Cup we found on had the whole trip, and the best Chicken and Biscuits we've tried anywhere! Go and tell me I'm wrong.
 
 <figure>
   <img src="/assets/images/alligator.sausage.jpg"  alt="{{post.categories}}"/>
@@ -42,7 +42,7 @@ Arguably tied with first place in our hearts, but <a href="http://caneandtableno
 </figure>
 
 <h3>Shaya</h3>
-<a href="http://www.shayarestaurant.com/">Shaya</a> is an Israeli inspired restaurant located in Uptown, lives up to its reputation as one of the best restaurants in the country. The decor, the service, the pita bread!!! All of it was amazing. You want to make sure to come hungry, we tried almost everything and left regretting nothing! 
+<a href="http://www.shayarestaurant.com/" target="_blank">Shaya</a> is an Israeli inspired restaurant located in Uptown, lives up to its reputation as one of the best restaurants in the country. The decor, the service, the pita bread!!! All of it was amazing. You want to make sure to come hungry, we tried almost everything and left regretting nothing!
 
 <figure>
   <img src="/assets/images/shaya.lamb.jpg" alt="{{post.categories}}"/>
@@ -50,7 +50,7 @@ Arguably tied with first place in our hearts, but <a href="http://caneandtableno
 </figure>
 
 <h3>Bacchanal</h3>
-We almost regret having to share this gem with the internet but <a href="http://www.bacchanalwine.com/">Bacchanal Wine</a> is not ours to keep secret. #moraldilemma. This place is the epitome of perfection to us. It reminds us of every amazing night out in every great city we've been to with its outside patio and live music.
+We almost regret having to share this gem with the internet but <a href="http://www.bacchanalwine.com/" target="_blank">Bacchanal Wine</a> is not ours to keep secret. #moraldilemma. This place is the epitome of perfection to us. It reminds us of every amazing night out in every great city we've been to with its outside patio and live music.
 
 <figure>
   <img src="/assets/images/bacchanal.jpg" alt="{{post.categories}}"/>

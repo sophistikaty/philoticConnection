@@ -2,20 +2,20 @@
 layout: post
 title: "Call Your Mother"
 date: 2018-11-24
-categories: [dc, new hotness, breakfast]
+categories: [dc, new-hotness, breakfast]
 description: delicious bagels in nw dc.
 image: /assets/images/call-your-mother/hero-cym.jpg
 image-sm: /assets/images/call-your-mother/hero-cym.jpg
 ---
+
+<p>Come for the bagels. Stay for the rocking chairs and un-ironic Drake memorabilia/ millennial mermaid theme.</p>
 <h3>cozy carb-noms in upper NW and the most important reminder of your week.</h3>
 <br>
-<p>Walking in felt a little like home. Or a pink and teal coffee-and-bagel-loving jew-ish-merman's dream. You choose.</p>
-
-<a href="https://www.callyourmotherdeli.com/">Call Your Mother</a>
+<a href="https://www.callyourmotherdeli.com/" target="_blank">Call Your Mother</a>
 
 <figure>
   <img src="/assets/images/call-your-mother/cym-breakfast-bagel.jpg" alt="{{post.categories}}"/>
-  <figcaption>Yeah, we forgot to take a photo of ours again cos we ate it so fast. And yes, it tasted as good as this looks. Photo courtesy of @callyourmotherdeli</figcaption>
+  <figcaption>Yeah, we forgot to take a photo of ours again cos we ate it so fast. And yes, it tasted as good as this looks. Photo courtesy of <a href="https://www.instagram.com/callyourmotherdeli/" target="_blank">@callyourmotherdeli</a></figcaption>
 </figure>
 <figure>
   <img src="/assets/images/call-your-mother/bagels-cym.jpg" alt="{{post.categories}}"/>
@@ -42,5 +42,5 @@ image-sm: /assets/images/call-your-mother/hero-cym.jpg
 </figure>
 <figure>
   <img src="/assets/images/call-your-mother/cym-bagel-noms.jpg" alt="{{post.categories}}"/>
-  <figcaption>Thanks for everything gorgeous. We will definitely be back to visit u. Photo courtesy of @callyourmotherdeli</figcaption>
+  <figcaption>Thanks for everything gorgeous. We will definitely be back to visit u. Photo courtesy of <a href="https://www.instagram.com/callyourmotherdeli/" target="_blank">@callyourmotherdeli</a></figcaption>
 </figure>
